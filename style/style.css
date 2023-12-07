@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 470px;
   height: auto;
 }
 
@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 41.5%;
+  left: 43.5%;
   /* transform: scale(0.1); */
 }
 
@@ -297,3 +297,6 @@ body {
     font-weight: lighter;
   }
 }
+
+
+.six
